@@ -4,7 +4,6 @@ This repository serves as both a **portfolio** and **backup** for the skills and
 
 ## About
 
----
 This repository is structured to showcase the progression of my learning journey in building cloud-native applications
 using **Java**, **Spring Boot**, and **other cloud-related technologies**. As I progress, I will include various
 resources, projects, and examples that demonstrate my growth and expertise in creating scalable, resilient, and
@@ -15,10 +14,9 @@ increasing in complexity, at the end. These projects might be implemented in the
 
 ## Lab Projects
 
----
 - [x] [01] [Contribuindo em um projeto Open Source no GitHub](https://github.com/digitalinnovationone/dio-lab-open-source/pull/55941)
 - [x] [02] [Simulando Uma Conta Bancária Através do Terminal/Console](./src/bootcamp/project2)
-- [ ] [03] Criando um Pequeno Sistema Para Validação de Processo Seletivo
+- [x] [03] [Criando um Pequeno Sistema Para Validação de Processo Seletivo](./src/bootcamp/project3)
 - [ ] [04] Modelando o iPhone com UML: Funções de Músicas, Chamadas e Internet
 - [ ] [05] Criando um Banco Digital com Java e OOP
 - [ ] [06] Criando um Jogo do Sudoku (Java)
